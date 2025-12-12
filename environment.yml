@@ -1,0 +1,26 @@
+name: retinai_env
+channels:
+  - conda-forge
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pillow
+  - opencv
+  - scikit-learn
+  - jupyterlab
+  - matplotlib
+  - seaborn
+  - pip:
+    - torch>=2.0.0
+    - torchvision>=0.15.0
+    - torchaudio>=2.0.0
+    - transformers>=4.46.0
+    - accelerate>=0.20.0
+    - diffusers
+    - timm
+    - gradio
+    - bitsandbytes
+    - sentencepiece

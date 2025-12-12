@@ -1,0 +1,15 @@
+transformers
+diffusers
+Pillow
+opencv-python
+scikit-learn
+jupyterlab
+matplotlib
+timm
+gradio
+seaborn
+torch
+pandas
+# bitsandbytes  # Not compatible with Apple Silicon, skip if on Mac
+accelerate
+sentencepiece
