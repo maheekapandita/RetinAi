@@ -156,7 +156,7 @@ You can run the interface in an interactive session on HiPerGator.
 ![Interface Demo](https://github.com/saririans/RetinAI/blob/main/media/interfacetest.gif?raw=true)
 
 ### Author Information
-* **Name**: Soroush Saririan
-* **Contact**: saririans@ufl.edu 
+* **Name**: Maheeka Pandita
+* **Contact**: maheekapandita39@gmail.com
 
 
